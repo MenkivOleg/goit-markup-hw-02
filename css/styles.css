@@ -12,10 +12,9 @@ span {
 .list {
   list-style: none;
 }
+/* HEADER!!!!!!!!!!!! */
 .header {
   background: #ffffff;
-}
-.header-nav {
 }
 .logo {
   font-family: "Raleway";
@@ -24,13 +23,97 @@ span {
   font-size: 18px;
   line-height: 1.17;
 }
+.header-nav {
+}
 .header-list {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header-item {
 }
 .header-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 .header-mail {
 }
 .header-tel {
+}
+/* HERO!!!!!!!!!! */
+.hero {
+}
+.hero-section {
+}
+.main-hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.7;
+  letter-spacing: 0.02em;
+}
+.hero-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+/* FEATURES!!!!!!!!! */
+.features-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.features-list {
+}
+.features-item {
+}
+.features-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* ABOUT!!!!!!!!!! */
+.about {
+}
+.about-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+}
+.about-list {
+}
+.about-item {
+}
+/* TEAM!!!!!!!!! */
+.team {
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+}
+.team-list {
+}
+.team-item {
+}
+.team-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.team-profession {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+/* FOTER!!!!!!!!!! */
+.footer {
+}
+.footer-text {
 }
