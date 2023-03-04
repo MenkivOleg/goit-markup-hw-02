@@ -2,11 +2,27 @@ body {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
 }
+span {
+  color: #4d5ae5;
+}
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
 .header {
+  background: #ffffff;
 }
 .header-nav {
 }
-.header-logo {
+.logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
 }
 .header-list {
 }
