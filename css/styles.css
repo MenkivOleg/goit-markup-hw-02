@@ -1,6 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
 }
 span {
   color: #4d5ae5;
@@ -17,7 +17,7 @@ span {
   background: #ffffff;
 }
 .header-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
