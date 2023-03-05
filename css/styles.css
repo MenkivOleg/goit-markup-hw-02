@@ -8,6 +8,10 @@ span {
 .link {
   text-decoration: none;
 }
+.link:hover,
+.link:focus {
+  color: #404bbf;
+}
 
 .list {
   list-style: none;
@@ -21,7 +25,7 @@ span {
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.33;
+  line-height: 1.17;
   text-transform: uppercase;
   color: #4d5ae5;
   letter-spacing: 0.03em;
@@ -35,6 +39,10 @@ span {
   color: #2e2f42;
   letter-spacing: 0.03em;
 }
+.adress {
+  font-style: normal;
+}
+
 .header-list {
   font-weight: 400;
   font-size: 16px;
@@ -46,6 +54,7 @@ span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 /* HERO!!!!!!!!!! */
 .hero-section {
