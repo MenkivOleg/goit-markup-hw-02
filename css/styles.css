@@ -200,6 +200,7 @@ span {
 }
 .filter-btn:hover {
   background-color: #404bbf;
+  color: #ffffff;
 }
 .filter-btn {
   background: #f4f4fd;
