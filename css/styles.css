@@ -24,6 +24,7 @@ span {
   line-height: 1.33;
   text-transform: uppercase;
   color: #4d5ae5;
+  letter-spacing: 0.03em;
 }
 .header-studio {
   font-family: "Raleway", sans-serif;
@@ -81,6 +82,7 @@ span {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 /* TEAM!!!!!!!!! */
 .team {
@@ -90,6 +92,8 @@ span {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
 }
 .team-name {
   font-weight: 500;
