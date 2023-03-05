@@ -42,8 +42,7 @@ span {
 .adress {
   font-style: normal;
 }
-.header-mail,
-.header-tel {
+.header-adress {
   color: #434455;
 }
 .header-list {
@@ -81,8 +80,7 @@ span {
   cursor: pointer;
   background: #4d5ae5;
 }
-.hero-btn:hover,
-.hero-btn:focus {
+.hero-btn:hover {
   background: #404bbf;
 }
 /* FEATURES!!!!!!!!! */
