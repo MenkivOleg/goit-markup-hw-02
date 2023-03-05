@@ -79,6 +79,11 @@ span {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  background: #4d5ae5;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background: #404bbf;
 }
 /* FEATURES!!!!!!!!! */
 .features-title {
